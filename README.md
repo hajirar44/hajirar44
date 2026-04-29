@@ -1,4 +1,4 @@
-# 📧 Hajira Rehman
+<img width="1536" height="1024" alt="Voice Controlled Home Automation Project" src="https://github.com/user-attachments/assets/045e21e6-80f9-402a-8907-f7539344740c" /># 📧 Hajira Rehman
 
 🎓 Computer Science Student  
 💻 Aspiring Software Developer  
@@ -45,12 +45,17 @@
 
 ### 🔹 Voice Controlled Home Automation
 Arduino-based smart system using voice commands.
+<img width="1536" height="1024" alt="Voice Controlled Home Automation Project" src="https://github.com/user-attachments/assets/5a2dd2c9-a5d6-48ed-ae50-67066f5e5170" />
+
 
 ### 🔹 Management System Web App
 Web-based data handling system.
+<img width="1536" height="1024" alt="Managment System Web App" src="https://github.com/user-attachments/assets/cc190c24-73ad-4b4b-8c00-2980de585c4f" />
+
 
 ### 🔹 Stack-Based Text Editor
 Built using Data Structures (Stack).
+<img width="1536" height="1024" alt="Stack-Based Text editor" src="https://github.com/user-attachments/assets/f67f1f8b-0e30-4f24-a9a9-3d4b228f75b1" />
 
 ---
 
