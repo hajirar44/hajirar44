@@ -8,9 +8,9 @@
 
 ## 📬 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-hajirar44%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+[![Email](https://img.shields.io/badge/Email-hajirar44%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajirar44@gmail.com)
 
-[![Phone](https://img.shields.io/badge/Call-0304--0866685-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]
+[![Phone](https://img.shields.io/badge/Call-0304--0866685-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:03040866685)
 
 ---
 
