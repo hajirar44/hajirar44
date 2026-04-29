@@ -1,4 +1,4 @@
-# Hajira Rehman
+# 📧 Hajira Rehman
 
 🎓 Computer Science Student  
 💻 Aspiring Software Developer  
@@ -6,7 +6,15 @@
 
 ---
 
-## About Me
+## 📬 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-hajirar44%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajirar44@gmail.com)
+
+[![Phone](https://img.shields.io/badge/Call-0304--0866685-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:03040866685)
+
+---
+
+## 👩‍💻 About Me
 - Currently learning: Advanced Java & Web Development  
 - Interested in: Software Development & Freelancing  
 - Goal: Become a Professional Software Engineer  
@@ -14,9 +22,9 @@
 
 ---
 
-## Tech Stack
+# 🛠️ TECH STACK
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
@@ -24,44 +32,41 @@
 
 ---
 
+## ⚙️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+
+---
+
 ## 📂 Projects
 
-🔹 **Voice Controlled Home Automation**  
-Arduino-based smart system using voice commands  
+### 🔹 Voice Controlled Home Automation
+Arduino-based smart system using voice commands.
 
-<img width="1536" height="1024" alt="Voice Controlled Home Automation Project" src="https://github.com/user-attachments/assets/03e0d06e-2f43-4d79-a12b-0a27f70db6aa" />
+### 🔹 Management System Web App
+Web-based data handling system.
 
-
-🔹 **Management System Web App**  
-Web-based data handling system  
-
-<img width="1536" height="1024" alt="Managment System Web App" src="https://github.com/user-attachments/assets/4790a4eb-81ab-40d4-bc56-b79ec8bfa2e5" />
-
-
-🔹 **Stack-Based Text Editor**  
-Built using Data Structures (Stack) 
-
-<img width="1536" height="1024" alt="Stack-Based Text editor" src="https://github.com/user-attachments/assets/a7f70f30-5a1c-430a-bc94-d8d5f41f82de" />
-
+### 🔹 Stack-Based Text Editor
+Built using Data Structures (Stack).
 
 ---
 
 ## 📊 GitHub Stats
-
 ![Hajira's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajirar44&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak Stats
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hajirar44&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hajira-rehman-103b74403)
 
 ---
 
-⭐ *Open for internships & freelance opportunities*
+⭐ Open for internships & freelance opportunities
