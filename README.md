@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Voice Controlled Home Automation Project" src="https://github.com/user-attachments/assets/045e21e6-80f9-402a-8907-f7539344740c" /># 📧 Hajira Rehman
+# 📧 Hajira Rehman
 
 🎓 Computer Science Student  
 💻 Aspiring Software Developer  
